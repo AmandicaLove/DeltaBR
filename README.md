@@ -17,6 +17,6 @@ O Tutorial será disponibilizado por escrito e em formato de texto quando o Cap�
 ## Downloads
 Os downloads serão disponibilizados quando o Capítulo 1 for traduzido completamente.
 ## Suporte 📞
-Para qualquer dúvida, você pode entrar em contato a partir do meu **[perfil no twitter](https://x.com/amandicalove)** , simplesmente enviando uma DM. Tentarei responder o mais rápido póssivel.
+Para qualquer dúvida, você pode entrar em contato a partir do meu **[perfil no twitter](https://x.com/amandicalove)**, simplesmente enviando uma DM. Tentarei responder o mais rápido póssivel.
 ## Notas Finais 📎
 Agradeço a leitura e em breve o download do primeiro capítulo estará disponível. Esse é um projeto sem fins lucrativos e feito na intenção de trazer Deltarune ao público Brasileiro.
