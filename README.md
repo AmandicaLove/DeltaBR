@@ -13,7 +13,9 @@ Kris, protagonista do jogo, **canonicamente usa o pronome neutro da língua ingl
 
 A Respeito de inimigos que são referidos por "It", traduzimos conforme a identificação do inimigo em outros momentos da batalha (Por exemplo, Ruddin é implicado ser masculino ou não-binário pela frase "Isn't the best friend of any girl"), o que nos dá liberdade para manter o inimigo no neutro em alguns momentos e, em outros contextos, o pronome implicado. Escolhemos não utilizar o pronome neutro pois **a intenção do pronome "It" no inglês é a de que o inimigo é ALGO e não ALGUÉM**, diferente de, por exemplo, Kris.
 ## Tutorial 📝
-https://youtu.be/DHh0R8YyI7k
+[![Watch the video](https://img.youtube.com/vi/DHh0R8YyI7k/maxresdefault.jpg)](https://youtu.be/DHh0R8YyI7k)
+
+### [Watch this video on YouTube](https://youtu.be/DHh0R8YyI7k)
 ## Downloads
 Os downloads serão disponibilizados quando o Capítulo 1 for traduzido completamente.
 ## Suporte 📞
