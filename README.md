@@ -17,7 +17,7 @@ A Respeito de inimigos que são referidos por "It", traduzimos conforme a identi
 
 ### [Acompanhe o tutorial clicando na imagem!](https://youtu.be/DHh0R8YyI7k)
 ## Downloads
-Os downloads serão disponibilizados quando o Capítulo 1 for traduzido completamente.
+O **Download** da tradução do Capítulo 1 está disponível na seção **[RELEASES](https://github.com/AmandicaLove/DeltaBR/releases)** dessa página do GitHub e também no MediaFire ([Versão 1.0.0](https://www.mediafire.com/file/xbf53t2i3zmjk10/DELTABR.Capitulo.1.zip/file))
 ## Suporte 📞
 Para qualquer dúvida, você pode entrar em contato a partir do meu **[perfil no twitter](https://x.com/amandicalove)**, simplesmente enviando uma DM. Tentarei responder o mais rápido póssivel.
 ## Notas Finais 📎
