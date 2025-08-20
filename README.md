@@ -15,7 +15,7 @@ A Respeito de inimigos que são referidos por "It", traduzimos conforme a identi
 ## Tutorial 📝
 [![Watch the video](https://img.youtube.com/vi/DHh0R8YyI7k/maxresdefault.jpg)](https://youtu.be/DHh0R8YyI7k)
 
-### [Watch this video on YouTube](https://youtu.be/DHh0R8YyI7k)
+### [Acompanhe o tutorial clicando na imagem!](https://youtu.be/DHh0R8YyI7k)
 ## Downloads
 Os downloads serão disponibilizados quando o Capítulo 1 for traduzido completamente.
 ## Suporte 📞
